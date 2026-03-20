@@ -5,3 +5,6 @@
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+instructions.md
+spambase.DOCUMENTATION
+spambase.names
